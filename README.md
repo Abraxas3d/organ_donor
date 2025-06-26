@@ -1,7 +1,12 @@
-## To use
+## Clone the repo
 
-```git add README.md```
+```git clone https://github.com/Abraxas3d/organ_donor.git```
+```cd organ_donor```
 
-```git commit -m "Add README with setup instructions"```
+## Install dependencies and setup environment
 
-```git push```
+```poetry install```
+
+## Start Jupyter Lab
+
+```poetry run jupyter lab```
