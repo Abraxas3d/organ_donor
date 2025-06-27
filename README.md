@@ -57,8 +57,12 @@ Separation of concerns - each class has one responsibility
 ## Innovations
 
 ✅ Rest duration analysis - crucial for natural feel
+
 ✅ Multiple Markov chains (notes, durations, content)
+
 ✅ Kemeny constants for phrase length
+
 ✅ Entropy analysis with sliding windows
+
 ✅ Real-time MIDI I/O capability
 
